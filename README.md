@@ -14,8 +14,9 @@ Fuente del dataset: https://www.kaggle.com/datasets/yasserh/wine-quality-dataset
 1) Realizar una exploración de los datos (EDA)
 2) Realizar gráficos y visualizaciones que ayuden a la comprención de los datos
 3) Detectar datos atípicos y darles tratamiento
-4) Realizar técnicas de balanceo de datos
+4) Definir un criterio de clasificación de los vinos
+5) Realizar técnicas de balanceo de datos
 
 **Archivos dentro del repositorio:**
 
-- WineQT_EDA: En este archivo se exporó el set de datos y se obtuvieron unas primeras conclusiones (Se abarcan los objetivos específicos 1,2 y 3)
+- WineQT_EDA: En este archivo se exporó el set de datos y se obtuvieron unas primeras conclusiones (Se abarcan los objetivos específicos 1 a 4)
