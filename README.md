@@ -19,4 +19,4 @@ Fuente del dataset: https://www.kaggle.com/datasets/yasserh/wine-quality-dataset
 
 **Archivos dentro del repositorio:**
 
-- WineQT_EDA: En este archivo se exporó el set de datos y se obtuvieron unas primeras conclusiones (Se abarcan los objetivos específicos 1 a 4)
+- WineQT_EDA: En este archivo se exporó el set de datos y se obtuvieron unas primeras conclusiones (Se abarcan objetivos específicos 1 a 4)
